@@ -1,0 +1,10 @@
+2019-10-10T16:19:13.798609+00:00 app[api]: Initial release by user hugarmahesh56@gmail.com
+2019-10-10T16:19:13.937601+00:00 app[api]: Release v2 created by user hugarmahesh56@gmail.com
+2019-10-10T16:19:13.937601+00:00 app[api]: Enable Logplex by user hugarmahesh56@gmail.com
+2019-10-10T16:19:13.798609+00:00 app[api]: Release v1 created by user hugarmahesh56@gmail.com
+2019-10-10T16:32:54.125954+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/" host=avengersdm.herokuapp.com request_id=8e319b2c-3db7-4b49-9106-dc0259e6da8f fwd="106.193.6.223" dyno= connect= service= status=502 bytes= protocol=https
+2019-10-10T16:32:55.366716+00:00 heroku[router]: at=info code=H81 desc="Blank app" method=GET path="/favicon.ico" host=avengersdm.herokuapp.com request_id=738a8096-f5e3-49b1-ab32-672a08d2783b fwd="106.193.6.223" dyno= connect= service= status=502 bytes= protocol=https
+2019-10-10T16:37:01+00:00 app[api]: Build started by user hugarmahesh56@gmail.com
+2019-10-10T16:39:15.977185+00:00 app[api]: Release v3 created by user hugarmahesh56@gmail.com
+2019-10-10T16:39:15.977185+00:00 app[api]: Deploy 7cfc527b by user hugarmahesh56@gmail.com
+2019-10-10T16:39:24+00:00 app[api]: Build succeeded
