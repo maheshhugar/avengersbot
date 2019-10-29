@@ -12,4 +12,4 @@ async def on_ready():
  async def say(ctx*,content):
  	await ctx.send(content)
  	
-bot.run( bot token )
+bot.run( NjM4NjkzMzQxNTE2NTI5Njc0.XbgcIg.2iqqhcGkVcYxD0mE0NWR1yycBqs )
